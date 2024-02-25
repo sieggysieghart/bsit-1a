@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    margin: 0 auto;
+    width: 1000px;
+}
+
+body {
+    background-color: gray;
+}
+.centered-title {
+    text-align: center;
+}
+.centered-title {
+    text-align: center;
+}
+.centered-title {
+    text-align: center;
+}
+
+.images-classmate,
+.images-HAHAHAHA,
+.images-1,
+.images-2,
+.images-3,
+.images-4,
+.images-5,
+.images-6,
+.images-7,
+.images-8,
+.video-container {
+    width: calc(100vw / 3);
+    height: calc((100vw / 3) * 0.66);
+    margin: auto;
+}
+
+.video-container video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.my-element {
+    margin: 20px; 
+    padding: 10px;
+}
+
+.centered-title {
+    text-align: center;
+    margin-bottom: 20px;
+}
